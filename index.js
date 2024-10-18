@@ -1,7 +1,7 @@
 const express = require("express");
-require("dotenv").config();
 const upload_routes = require("./src/routes/upload_routes.js");
 
+require("dotenv").config();
 const app = express();
 const PORT = process.env.PORT || 3000;
 
