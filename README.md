@@ -24,8 +24,8 @@ Before running this project, ensure you have the following installed on your loc
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/conversation-api.git
-cd conversation-api
+git clone https://github.com/hardiksgit/siena-challenge.git
+cd siena-challenge
 ```
 
 ### 2. Install Dependancies
