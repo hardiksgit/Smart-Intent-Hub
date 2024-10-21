@@ -46,7 +46,7 @@ Add AWS lambda as an event triggered service to this s3. For more details on lam
 AWS_ACCESS_KEY_ID=""
 AWS_SECRET_ACCESS_KEY=""
 AWS_REGION=""
-PORT=3000
+PORT=
 S3_BUCKET_NAME=""
 MONGO_URI=""
 ```
