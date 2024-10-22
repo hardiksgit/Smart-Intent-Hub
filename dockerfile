@@ -1,6 +1,6 @@
 FROM node:18
 
-WORKDIR /usr/src/app
+WORKDIR /siena-challenge
 
 COPY package*.json ./
 RUN npm install --production

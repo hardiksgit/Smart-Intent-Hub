@@ -17,7 +17,7 @@ Before running this project, ensure you have the following installed on your loc
 - [Node.js](https://nodejs.org/) (v14.x or later)
 - [MongoDB](https://www.mongodb.com/) (Ensure that your MongoDB server is running)
 - [Postman](https://www.postman.com/) (for API testing, or you can use curl)
-- [Git](https://git-scm.com/) (optional)
+- [Git](https://git-scm.com/)
 
 ## Getting Started
 
