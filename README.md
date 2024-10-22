@@ -38,6 +38,7 @@ npm install
 
 ```bash
 Add AWS lambda as an event triggered service to this s3. For more details on lambda setup and code you can check other repo
+checkout: https://github.com/hardiksgit/lambda-file-processor
 ```
 
 ### 4. Configure the Environment Variables
