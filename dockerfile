@@ -1,6 +1,6 @@
 FROM node:18
 
-WORKDIR /SmartIntentHub
+WORKDIR /Smart-Intent-Hub
 
 COPY package*.json ./
 RUN npm install --production

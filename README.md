@@ -1,4 +1,4 @@
-# Smart-Intent-Hub
+# SmartIntentHub
 
 # Conversation API
 
