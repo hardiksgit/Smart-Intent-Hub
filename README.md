@@ -1,4 +1,4 @@
-# siena-challenge
+# Smart-Intent-Hub
 
 # Conversation API
 
@@ -24,8 +24,8 @@ Before running this project, ensure you have the following installed on your loc
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hardiksgit/siena-challenge.git
-cd siena-challenge
+git clone https://github.com/hardiksgit/Smart-Intent-Hub.git
+cd Smart-Intent-Hub
 ```
 
 ### 2. Install Dependancies
@@ -38,7 +38,7 @@ npm install
 
 ```bash
 Add AWS lambda as an event triggered service to this s3. For more details on lambda setup and code you can check other repo
-checkout: https://github.com/hardiksgit/lambda-file-processor
+checkout: https://github.com/hardiksgit/Intent-AI-Gen
 ```
 
 ### 4. Configure the Environment Variables

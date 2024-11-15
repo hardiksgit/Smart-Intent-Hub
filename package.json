@@ -1,5 +1,5 @@
 {
-  "name": "siena-challenge",
+  "name": "Smart-Intent-Hub",
   "version": "1.0.0",
   "description": "AI customer exec",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hardiksgit/siena-challenge.git"
+    "url": "git+https://github.com/hardiksgit/Smart-Intent-Hub.git"
   },
   "keywords": [
     "AI",
@@ -21,9 +21,9 @@
   "author": "Hardik Parmar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hardiksgit/siena-challenge/issues"
+    "url": "https://github.com/hardiksgit/Smart-Intent-Hub/issues"
   },
-  "homepage": "https://github.com/hardiksgit/siena-challenge#readme",
+  "homepage": "https://github.com/hardiksgit/Smart-Intent-Hub#readme",
   "dependencies": {
     "aws-sdk": "^2.1691.0",
     "csv-parser": "^3.0.0",

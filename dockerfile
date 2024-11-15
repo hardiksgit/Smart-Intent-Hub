@@ -1,6 +1,6 @@
 FROM node:18
 
-WORKDIR /siena-challenge
+WORKDIR /SmartIntentHub
 
 COPY package*.json ./
 RUN npm install --production
